@@ -1,0 +1,10 @@
+l=[]
+n=int(input())
+for i in range(1,num+1)
+    num=int(input())
+    l.append(num)
+max num=0
+for j in l:
+    if j>max num:
+       max num=j
+print(max num)
